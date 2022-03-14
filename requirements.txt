@@ -1,0 +1,6 @@
+boto3=1.21.18
+candlestick-patterns-subodh101
+finnhub-python
+numpy
+pandas=1.4.1
+retry=0.9.2
